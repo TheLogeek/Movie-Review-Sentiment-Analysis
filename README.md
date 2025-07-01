@@ -5,6 +5,10 @@
 **Trained on IMBD Dataset of 50k Movie Reviews**
 (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
+**Algorithm used**
+
+Support vector machine 
+
 **Requirements**
 
 - Python
